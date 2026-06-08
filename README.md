@@ -6,7 +6,7 @@
 
 *Lead Backend Dev @ScalezMedia · Building TedOS · B.Sc CS @ University of Kashmir*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/warisrawa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/waris-rawa)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/technolity_)
 
 </div>
