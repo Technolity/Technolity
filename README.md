@@ -179,11 +179,10 @@ AI-powered analytics platform transforming Amazon reviews into business insights
 <tr>
 <td valign="top" width="50%">
 
-### 🌑 MOON — Immersive 3D Web Experience
+### 🌑 MOON — Ecommerce Full Stack Webapp
 
-Real-time 3D web experience with WebGL rendering. A deliberate showcase of what's possible beyond standard UI — built with Three.js and TypeScript. Demonstrates depth of craft across the full frontend spectrum.
-
-**Stack:** `Three.js` `TypeScript` `WebGL` `3D rendering`
+Complete full stack ecommerce weapp deployed and in production currently with users more than 5000 serving and receiving orders all over nation, Good Design | Smooth UX.
+**Stack:** `Next.js` `TypeScript` `WebGL` `3D rendering`
 
 [View repo →](https://github.com/technolity/MOON)
 
