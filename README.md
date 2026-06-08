@@ -7,7 +7,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_portfoliowaris.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfoliowaris.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-waris-rawa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/waris-rawa)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-warisrawa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/waris-rawa)&nbsp;
 [![Email](https://img.shields.io/badge/Email-warisrawa145%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:warisrawa145@gmail.com)&nbsp;
 [![X](https://img.shields.io/badge/X-%40technolity__-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/technolity_)
 
