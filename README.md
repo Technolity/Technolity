@@ -208,9 +208,9 @@ Real-time cryptocurrency market dashboard — live price polling via CoinGecko A
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=technolity&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=technolity&theme=github_dark)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technolity&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=technolity&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=technolity&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
