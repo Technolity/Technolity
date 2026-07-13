@@ -23,7 +23,7 @@ Currently building **TedOS** — a multi-tenant SaaS that runs **17+ AI generati
 
 - 🔭 Building: **[TedOS](https://github.com/technolity/ai-marketing-automation)** — AI marketing automation SaaS · 690+ commits · live on Vercel
 - 🏢 At: **Scalez Media** as Lead Backend Developer
-- 🎓 Studying: B.Sc. Computer Science @ University of Kashmir
+- 🎓 Studied: B.tech Computer Science @ University of Kashmir
 - 🌍 Based in: Kashmir, India &nbsp;·&nbsp; Open to **remote roles** (USD)
 - 🛠️ Focus: AI orchestration · SaaS architecture · Automation systems · Individual contributor
 - 🌐 Portfolio: **[portfoliowaris.vercel.app](https://portfoliowaris.vercel.app)**
