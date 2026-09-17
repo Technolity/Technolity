@@ -190,26 +190,27 @@ Real-time market dashboard — live price polling via the CoinGecko API, histori
 <br/><br/>
 
 <!--
-  STREAK CARD — reliability notes
-  ────────────────────────────────
-  1. The trailing slash before "?user=" matters. Without it the card
-     frequently fails and GitHub's camo proxy caches the broken result.
-  2. The public demolab endpoint is rate-limited and goes down periodically.
-     If this stops rendering, swap the host for the community mirror:
-       https://github-readme-streak-stats-eight.vercel.app/?user=technolity...
-  3. Most reliable option: generate a static SVG with the official
-     GitHub Action (DenverCoder1/github-readme-streak-stats-action) and
-     point the img at the committed file. That also lets you include
-     PRIVATE contributions via a PAT — important since a lot of your
-     commit volume lives in private client repos.
+  STREAK + ACTIVITY GRAPH — now self-hosted, not live-fetched.
+  ─────────────────────────────────────────────────────────────
+  The old setup hit the public streak-stats.demolab.com and
+  github-readme-activity-graph.vercel.app endpoints on every page
+  load. Both are known to intermittently 504 once the shared free
+  instance hits GitHub's API rate limit — that's the "breaking"
+  you were seeing, not a bad URL.
+  Fix: .github/workflows/profile-stats.yml (added alongside this
+  README) regenerates both as static SVGs on a daily cron and
+  commits them into profile/. The <img> tags below just point at
+  those committed files, so there's no live third-party call left
+  to fail. Run the workflow once manually (Actions tab → Update
+  Profile Stats → Run workflow) to generate the files the first time.
 -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=technolity&theme=dark&hide_border=true&background=0D1117&ring=DC2A3C&fire=DC2A3C&currStreakLabel=DC2A3C&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="70%"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="70%"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=technolity&bg_color=0D1117&color=F0F6FC&line=DC2A3C&point=FFFFFF&area=true&area_color=DC2A3C&hide_border=true&custom_title=Contribution%20Activity" width="98%"/>
+<img src="./profile/activity-graph.svg" width="98%"/>
 
 </div>
 
