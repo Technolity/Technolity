@@ -184,8 +184,8 @@ Real-time market dashboard — live price polling via the CoinGecko API, histori
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=technolity&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=technolity&theme=github_dark" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=technolity&show_icons=true&theme=dark&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=technolity&layout=compact&theme=dark&hide_border=true" width="49%"/>
 
 <br/><br/>
 
